@@ -69,7 +69,7 @@
 
 ### Prerequisites
 - Python 3.10+
-- 8GB+ RAM (16GB recommended for research mode)
+- 8 GB+ RAM (16GB recommended for research mode)
 - FAISS-compatible CPU (AVX2 support required)
 - 
 ## License:
@@ -85,7 +85,7 @@ git clone https://github.com/mostafathemar/The-Enigmatic-Research-Assistant-Proj
 cd The-Enigmatic-Research-Assistant-Project
 
 # Install core dependencies
-pip install -r requirements.core.txt
+pip install -r requirements.txt
 
 # Choose engine installation
 pip install -r requirements.precision.txt  # Q&A Engine
