@@ -71,13 +71,7 @@
 - Python 3.10+
 - 8 GB+ RAM (16GB recommended for research mode)
 - FAISS-compatible CPU (AVX2 support required)
-- 
-## License:
-Please see the LICENSE file for details.
-
-## Contact:
-If you have any questions, please feel free to contact us at mostafathemar@email.com.
-
+  
 ### Quick Start
 ```bash
 # Clone repository
@@ -86,6 +80,13 @@ cd The-Enigmatic-Research-Assistant-Project
 
 # Install core dependencies
 pip install -r requirements.txt
+```
+## License:
+Please see the LICENSE file for details.
+
+## Contact:
+If you have any questions, please feel free to contact us at mostafathemar@email.com.
+
 
 # Choose engine installation
 pip install -r requirements.precision.txt  # Q&A Engine
