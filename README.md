@@ -72,6 +72,13 @@
 - 8 GB+ RAM (16GB recommended for research mode)
 - FAISS-compatible CPU (AVX2 support required)
   
+# Choose engine installation
+pip install -r requirements.precision.txt  # Q&A Engine
+pip install -r requirements.research.txt   # Research Engine
+
+# Download models (~2.5GB)
+./scripts/download_models.sh
+
 ### Quick Start
 ```bash
 # Clone repository
@@ -86,11 +93,3 @@ Please see the LICENSE file for details.
 
 ## Contact:
 If you have any questions, please feel free to contact us at mostafathemar@email.com.
-
-
-# Choose engine installation
-pip install -r requirements.precision.txt  # Q&A Engine
-pip install -r requirements.research.txt   # Research Engine
-
-# Download models (~2.5GB)
-./scripts/download_models.sh
