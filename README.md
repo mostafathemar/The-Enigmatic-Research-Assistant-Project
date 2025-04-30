@@ -92,4 +92,4 @@ pip install -r requirements.txt
 Please see the LICENSE file for details.
 
 ## Contact:
-If you have any questions, please feel free to contact us at mostafathemar@email.com.
+If you have any questions, please feel free to contact us at mostafathemar@gmail.com.
